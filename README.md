@@ -6,7 +6,7 @@
 ### <div align="center">I'm Aditya, a fullstack software developer 👨‍💻 working in the industry since 2015 🚀</div>  
   
 
-- 🔭  I’m currently working on at domlabs on reSolved as tech lead and on lovr.online as the project manager
+- 🔭  I’m currently working at domlabs on reSolved as tech lead and at lovr.online as the project manager
   
 
  
