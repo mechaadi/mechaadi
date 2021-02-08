@@ -1,12 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
+  ### <div align="center">I'm Aditya, a fullstack software developer 👨‍💻 working in the industry since 2015 🚀</div>  
   
 
-### <div align="center">I'm Aditya, a fullstack software developer 👨‍💻 working in the industry since 2015 🚀</div>  
-  
-
-- 🔭  I’m currently working at domlabs on reSolved as tech lead and at lovr.online as the project manager, in love with K8's, docker and puppeteer.
+- I’m currently working at domlabs on reSolved as tech lead and at lovr.online as the project manager, in love with K8's, docker and puppeteer.
   
 
  
