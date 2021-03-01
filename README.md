@@ -98,8 +98,12 @@
 </div>  
   
 
-<br/>  
+<br/> 
 
+## CodersRank Stats
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mechaadi"/>
+<br/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mechaadi"/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mechaadi&show_icons=true&count_private=true" align="center" /></div>  
@@ -108,8 +112,6 @@
 <br/>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mechaadi" align="center" /></div> 
 
-## CodersRank Stats
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mechaadi"/>
-<br/>
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mechaadi"/>
+
+
  
