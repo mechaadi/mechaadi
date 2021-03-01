@@ -76,6 +76,7 @@
 
 <br/>
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mechaadi"/>
 
 ## Connect with me  
 <div align="center">
@@ -102,7 +103,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mechaadi&show_icons=true&count_private=true" align="center" /></div>  
-
+<br/>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mechaadi"/>
 <br/>
 
