@@ -8,7 +8,7 @@
  
 <br/>  
 
-
+![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/184?logoColor=white%26project=%26recentMS=0%26showProject=false)
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
