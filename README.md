@@ -28,7 +28,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td> <td valign="top" width="33%">
 
 
 
@@ -59,7 +59,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>
-</div></td><td valign="top" width="33%">
+</div>
+</td><td valign="top" width="33%">
 
 ### Others  
 <div align="center">  
