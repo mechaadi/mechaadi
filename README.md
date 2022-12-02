@@ -4,6 +4,8 @@
 
 - I’m currently working at domlabs on [reSolved](https://resolved.dominuslabs.com) as tech lead and at [Signally](https://signally.app) as the project manager, in love with K8's, docker and puppeteer. Also, building a new [social media platform](https://mappe.a7alabs.com) powered by Maps and Augmented Reality.
 
+
+
  
 <br/>  
 <a href="https://wakatime.com/@d03838fe-18a0-40c3-8cb5-50580fb78c0f"><img src="https://wakatime.com/badge/user/d03838fe-18a0-40c3-8cb5-50580fb78c0f.svg" alt="Total time coded since Jun 3 2020" /></a>
