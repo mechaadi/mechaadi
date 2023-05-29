@@ -1,5 +1,5 @@
  
-  ### <div align="center">I'm Aditya, a fullstack software developer 👨‍💻 working in the industry since 2015 🚀</div>  
+### <div align="center">I'm Aditya, a fullstack software developer 👨‍💻 working in the industry since 2015 🚀</div>  
   
 - I’m currently working at domlabs on [reSolved](https://resolved.dominuslabs.com) as tech lead and at [Signally](https://signally.app) as the project manager, in love with K8's, docker and puppeteer. Also, building a new [social media platform](https://mappe.a7alabs.com) powered by Maps and Augmented Reality.
 
