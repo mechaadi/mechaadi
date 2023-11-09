@@ -1,4 +1,5 @@
 ### <div align="center">I'm Aditya, a fullstack software developer 👨‍💻 working in the industry since 2015 🚀</div>
+
  
 <br/>  
 <a href="https://wakatime.com/@d03838fe-18a0-40c3-8cb5-50580fb78c0f"><img src="https://wakatime.com/badge/user/d03838fe-18a0-40c3-8cb5-50580fb78c0f.svg" alt="Total time coded since Jun 3 2020" /></a>
