@@ -97,7 +97,4 @@
 
 <br/> 
 
-## Github Stats  
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechaadi&layout=compact" align="center" /> </div>  
-<br/>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mechaadi" align="center" /> </div> 
