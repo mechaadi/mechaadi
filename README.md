@@ -97,9 +97,6 @@
 
 <br/> 
 
-## CodersRank Stats
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mechaadi"/>
-
 ## Github Stats  
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechaadi&layout=compact" align="center" /> </div>  
 <br/>
